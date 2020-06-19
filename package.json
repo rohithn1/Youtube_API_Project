@@ -1,0 +1,19 @@
+{
+  "name": "youtube_api",
+  "version": "1.0.0",
+  "description": "This is the coding assignment for my Tegger interview.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohith Nadimpally",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^5.2.0",
+    "cors": "^2.8.5",
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "get-json": "^1.0.1",
+    "request": "^2.88.2"
+  }
+}
