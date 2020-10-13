@@ -1,7 +1,5 @@
 # Youtube_API_Project
 
-This project is my technical assignment for my Tegger Interview.
-
 Steps to run locally:
 
 1. Clone Repo
